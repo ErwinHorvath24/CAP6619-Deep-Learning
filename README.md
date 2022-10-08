@@ -7,18 +7,18 @@ This course teaches students basic concepts of deep learning, with focused appli
 The goal of this class is for students to gain theoretical foundation and hands-on experiences on deep learning. At the end of the class, students should be able to understand the fundamentals of deep learning, algorithmic and implementation details and should be able to apply popular deep learning models to study their research problems.
 
 ## Course Topical Outline
-• Introduction to Dee Larning [Weeks 1 - 7]
+• Introduction to Deep Learning [Weeks 1 - 7]
   1. Introduction to machine learning
   2. Introduction to Python programming
   3. Perceptron Architecture and Learning
   4. Convolutional Neural Network (CNN)
 
-• Dee Learning Applications [Weeks 8 - 12]
+• Deep Learning Applications [Weeks 8 - 12]
 
   5. Fully connected network learning
   6. Deep learning for biomedical applications
 
-• Advanced Dee Learning topics [Weeks 13-15]
+• Advanced Deep Learning topics [Weeks 13-15]
 
   7. Recurrent neural networks
   8. Auto-encoder
