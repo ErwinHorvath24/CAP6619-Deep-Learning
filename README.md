@@ -14,10 +14,12 @@ The goal of this class is for students to gain theoretical foundation and hands-
   4. Convolutional Neural Network (CNN)
 
 • Dee Learning Applications [Weeks 8 - 12]
+
   5. Fully connected network learning
   6. Deep learning for biomedical applications
 
 • Advanced Dee Learning topics [Weeks 13-15]
+
   7. Recurrent neural networks
   8. Auto-encoder
   9. Deep learning for image recognition and text classification
